@@ -1,4 +1,4 @@
-# Biomass Burning and NO₂ Pollution Over West Africa
+# Biomass Burning and Nitrogen Dioxide Pollution Over West Africa
 
 ## Overview
 
